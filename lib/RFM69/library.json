@@ -1,0 +1,8 @@
+{
+  "name": "qbcan RFM69HW library",
+  "dependencies": [
+    {
+      "name": "SPI"
+    }
+  ]
+}
